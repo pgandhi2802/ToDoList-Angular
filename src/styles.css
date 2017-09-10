@@ -1,1 +1,11 @@
-/* You can add global styles to this file, and also import other style files */
+body{
+	background: #eee;
+}
+
+#completedTasksList .fa,#toDoTasksList .fa{
+	color:black;
+
+}
+#completedTasksList .card-text p,#toDoTasksList .card-text p{
+	padding: 10px;
+}
